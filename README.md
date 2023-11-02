@@ -1,4 +1,4 @@
-# Social React App
+# Social MERN App
 
 A social networking application similar to Facebook in design and features.
 
