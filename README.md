@@ -8,7 +8,7 @@ Register and login to your account.\
 Sharing posts and making likes.\
 Getting timeline and your posts.\
 Follow and unfollow other users.\
-Chat with your friends.\
+Chat with your friends.
 
 ## Frameworks and Technologies
 ### At Frontend 
@@ -28,4 +28,4 @@ Mongoose\
 Bcrypt\
 Cors\
 Helmet\
-Multer\
+Multer
